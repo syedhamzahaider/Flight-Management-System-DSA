@@ -1,5 +1,3 @@
-Sure! Here's an updated README.md file for the Flight Management System that uses the GNU General Public License:
-
 # Flight Management System
 
 This is a Flight Management System implemented in C++. It allows users to book domestic and international flights, view flight details, and cancel tickets. The system uses a singly linked list data structure to store passenger information.
