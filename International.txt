@@ -1,0 +1,12 @@
+
+		Full Name : maheera ali
+		Phone Number : 9808090909
+		ID Number : 0000000000
+		E Address : hakjiasjhsi@khkhsda
+		PNR : 11
+		Flight : AirBlue
+		Date : 9102020
+		Departure : 14:00
+		Arrival   : 18:05
+				Flight Confirmed 
+				=================

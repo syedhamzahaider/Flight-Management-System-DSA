@@ -1,0 +1,12 @@
+
+		Full Name : hamza haider
+		Phone Number : 03237016726
+		ID Number : 0000000000
+		E Address : hamzadih@jsdkjsd
+		PNR : 1
+		Flight : PIA
+		Date : 9102020
+		Departure : 8:00
+		Arrival   : 11:05
+				Flight Confirmed 
+				=================
